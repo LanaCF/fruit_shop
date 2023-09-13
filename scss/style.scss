@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(237, 255, 237);
+}
+
+img {
+    width: 35px;
+    margin-left: 5px;
+}
+
+.container {
+    display: flex;
+    padding: 100px;
+}
